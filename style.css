@@ -1,0 +1,49 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+
+h1{
+    color:brown;
+    font-weight: 400;
+    font-size: 50px;
+}
+.head{
+    color:orange;
+}
+.heading{
+    display: flex;
+    width:100%;
+    padding: 5%;
+    background-color: aquamarine;
+}
+
+
+.linkbutton a{
+    text-decoration: none;
+
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: black;
+    margin-top: 50px;
+}
+.planning{
+    display: flex;
+    width: 100%;
+   
+}
+.planning p{
+    width:100%;
+    padding-left: 10%;
+}
+footer p{
+    text-align: center;
+    color: gray;
+}
+.form-submit{
+    text-align: center;
+    background-color: aqua;
+}
